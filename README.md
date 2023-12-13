@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Watch-Dogs
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning C and possibly LUA ;c
+- 💞️ I’m looking to collaborate on GitHub I guess?
+- 📫 How to reach me [REDACTED]
