@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Watch-Dogs
+- 👋 Hi, I’m @Background-Character
 - 👀 I’m interested in learning to code, yes.
 - 🌱 I’m currently learning C and possibly LUA for fun. ;c (im a freshman)
 - 📫 How to reach me [REDACTED]
